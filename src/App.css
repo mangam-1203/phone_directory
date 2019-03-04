@@ -23,6 +23,38 @@
   color: #61dafb;
 }
 
+.btn--back{
+  background-color: white;
+  color : #777;
+  width : 70px;
+  height : 30px;
+  padding : 3px;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  position: absolute;
+  left: 35px;
+  top : 80px;
+  border : none;
+  outline : none;
+}
+
+.btn--add{
+  background-color: #5cb85c;
+  color : white;
+  width : 70px;
+  height : 30px;
+  padding : 3px;
+  text-align: center;
+  text-transform: uppercase;
+  display: block;
+  position: absolute;
+  left: 35px;
+  top : 80px;
+  border : none;
+  outline : none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
